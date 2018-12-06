@@ -1,5 +1,4 @@
-# DH-Final
-Digital House - Data Science - Proyecto Final
+# Digital House - Data Science - Proyecto Final
 
 **Objetivo**: Predecir si el retorno excedente de la acción de Netflix (NFLX) respecto al índice NASDAQ 100 (NDX) es positivo o negativo  utilizando tweets y noticias de Reddit  
 
